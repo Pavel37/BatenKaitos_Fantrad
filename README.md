@@ -1,5 +1,7 @@
 # Baten Kaitos II (Origins) HD Remaster — Fan-Traduction Française
 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir%20le%20projet-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/corbionjeremie)
+
 Patch de traduction française non officiel pour **Baten Kaitos Origins** dans le HD Remaster (Steam).
 
 **20 178 textes traduits** : dialogues, descriptions de Magnus, menus en jeu, bestiaire, quêtes, tutoriels, et plus encore.
@@ -214,7 +216,18 @@ BK2_FanTrad_FR/
 
 ---
 
+## Soutenir le projet
+
+Ce patch est entièrement gratuit et le restera. Si vous souhaitez soutenir le travail de traduction, vous pouvez m'offrir un café :
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/corbionjeremie)
+
+Merci pour le café ! Ça me motive à continuer à traduire d'autres jeux pour la communauté francophone :)
+
+---
+
 ## Contact
 
 - **Email** : corbion.jeremie@gmail.com
 - **Bugs & suggestions** : [Issues GitHub](../../issues)
+- **Ko-fi** : [ko-fi.com/corbionjeremie](https://ko-fi.com/corbionjeremie)
