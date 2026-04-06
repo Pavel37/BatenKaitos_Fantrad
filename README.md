@@ -222,8 +222,6 @@ Ce patch est entièrement gratuit et le restera. Si vous souhaitez soutenir le t
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/corbionjeremie)
 
-Merci pour le café ! Ça me motive à continuer à traduire d'autres jeux pour la communauté francophone :)
-
 ---
 
 ## Contact
