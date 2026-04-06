@@ -176,9 +176,10 @@ BK2_FanTrad_FR/
 | TP | PT | Points Techniques |
 | G (monnaie) | PO | Pièces d'Or |
 
-- **Vouvoiement** par défaut dans les dialogues
+- **Vouvoiement** par défaut, tutoiement pour les personnages proches (Sagi, Milly, Guillo entre eux)
 - **Tutoiement** pour les scènes de combat et les relations proches
 - Alignement sur la traduction officielle française de Baten Kaitos I (terminologie, noms propres, registre des personnages)
+- Des incohérences ponctuelles peuvent exister
 
 ---
 
