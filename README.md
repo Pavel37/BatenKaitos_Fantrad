@@ -174,7 +174,7 @@ BK2_FanTrad_FR/
 | HP | PV | Points de Vie |
 | MP | PM | Points de Magie |
 | TP | PT | Points Techniques |
-| G (monnaie) | PO | Pièces d'Or |
+| G (monnaie) | G (monnaie) | Gold |
 
 - **Vouvoiement** par défaut, tutoiement pour les personnages proches (Sagi, Milly, Guillo entre eux)
 - **Tutoiement** pour les scènes de combat et les relations proches
